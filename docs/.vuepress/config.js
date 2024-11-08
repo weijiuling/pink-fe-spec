@@ -6,5 +6,5 @@ import { defineUserConfig } from 'vuepress'
 export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme(),
-  base: "/pink-fe-specs/",
+  base: "/pink-fe-spec/",
 })
