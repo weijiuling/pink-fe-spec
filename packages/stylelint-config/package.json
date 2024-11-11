@@ -1,7 +1,6 @@
 {
-  "name": "encode-fe-stylelint-config",
+  "name": "fe-stylelint-config",
   "version": "1.0.1",
-  "description": "印客学院 CSS规范",
   "main": "index.js",
   "keywords": [
     "encode",
@@ -11,8 +10,6 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "chenghuai",
-  "homepage": "https://github.com/encode-studio-fe/fe-spec#readme",
   "license": "ISC",
   "peerDependencies": {
     "stylelint": ">=8.3.0",
@@ -25,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/encode-studio-fe/fe-spec.git"
+    "url": "git+https://github.com/weijiuling/pink-fe-spec.git"
   },
   "bugs": {
-    "url": "https://github.com/encode-studio-fe/fe-spec/issues"
+    "url": "https://github.com/weijiuling/pink-fe-spec/issues"
   }
 }
