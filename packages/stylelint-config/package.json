@@ -1,6 +1,6 @@
 {
   "name": "fe-stylelint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "keywords": [
     "encode",
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/weijiuling/pink-fe-spec/issues"
   },
-  "gitHead": "675158bc9ae7e7898117124438eac019fdc2d3af"
+  "gitHead": "56eab17df97e45dcc72a01fda811294aa545ff27"
 }
